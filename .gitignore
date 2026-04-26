@@ -1,0 +1,14 @@
+node_modules
+**/node_modules
+dist
+**/dist
+**/.vite
+.env
+**/.env
+!.env.example
+!**/.env.example
+*.log
+.DS_Store
+
+# Extended documentation and archived README (keep locally / in submission zip)
+docs/
