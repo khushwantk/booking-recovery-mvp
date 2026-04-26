@@ -1,5 +1,7 @@
 # AI Booking Recovery MVP
 
+#### For the demo funnel, flight options are currently mocked (synthetic routes, fares, and timings).
+
 ## Run the project
 
 ```bash
@@ -16,7 +18,6 @@ npm run dev
 
 **Open the app:** http://localhost:5174
 
-**A/B experiment (sticky in the browser):** The **first visit** on a browser defaults to **copilot** (Recovery Copilot enabled). Open **http://localhost:5174?exp=control** once to lock the **control** variant (no copilot API), or **?exp=copilot** to force copilot again. That stores **`experiment_variant`** in **`localStorage`**, so later visits on the same browser keep that assignment until you change the query param or clear site data.
 
 **Production build (optional):**
 
@@ -120,3 +121,5 @@ sequenceDiagram
   API->>W: { sessionId, stage, variant }
   W->>U: Redirect to booking flow ?resume=stage
 ```
+
+**A/B experiment (optional):** The **first visit** on a browser defaults to **copilot** (Recovery Copilot enabled). Open **http://localhost:5174?exp=control** once to lock the **control** variant (no copilot API), or **?exp=copilot** to force copilot again. That stores **`experiment_variant`** in **`localStorage`**, so later visits on the same browser keep that assignment until you change the query param or clear site data.

@@ -1,0 +1,1097 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7578
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+48. 783.6899999999999409 Td
+(Recovery Copilot — chat export) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 770.2400000000000091 Td
+(Chat ID: cc-7f1f1d96-5886-4d53-886e-d1a2db1cb396) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 758.7400000000000091 Td
+(Generated: 2026-04-26T19:49:35.021Z) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+48. 741.2400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 729.2400000000000091 Td
+(Hi - I can explain baggage, refunds, seats, payments, and help you finish booking. What would you like to know?) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+48. 709.7400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 697.7400000000000091 Td
+(Hi) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+48. 678.2400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 666.2400000000000091 Td
+(Hello! I'm here to help you finalize your booking from Kolkata \(CCU\) to Bangkok \(BKK\).) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 654.7400000000000091 Td
+(How can I assist you today? You can ask me about:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 643.2400000000000091 Td
+(Comparing different fare options \(Saver vs. Flex\).) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 631.7400000000000091 Td
+(Understanding the total cost and pricing breakdown.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 620.2400000000000091 Td
+(Our baggage policies or add-ons like seats or insurance.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 608.7400000000000091 Td
+(Alternative routes or dates.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+48. 589.2400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 577.2400000000000091 Td
+(You may be hesitating or out of time - ask me about baggage, refunds, seats, or your add-ons. I only answer from our) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 565.7400000000000091 Td
+(policy snippets. You can also tap "Get resume link" below to finish later.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+48. 546.2400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 534.2400000000000091 Td
+(What does Flex include compared to Saver on this booking?) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+48. 514.7400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 502.7400000000000091 Td
+(Based on the fare rules, here is what Flex includes compared to Saver:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 491.2400000000000091 Td
+(*   Base Fare & Flexibility: Flex fares typically have a higher base fare but) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 479.7400000000000091 Td
+(_\(This reply hit the completion token limit \(finish_reason: length\). Set OPENAI_COMPAT_MAX_TOKENS \(e.g. 32768 or) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 468.2400000000000091 Td
+(65536\) in server/.env and restart the API. In LM Studio, also raise the model's Server -> Context Length / Max Tokens) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 456.7400000000000091 Td
+(\(Output\) if it caps below your env. If it still truncates, lower RAG_TOP_K or shorten policy snippets - the model's total context) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 445.2400000000000091 Td
+(may be full.\)_) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+48. 425.7400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 413.7400000000000091 Td
+(What does Flex include compared to Saver on this booking?) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+48. 394.2400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 382.2400000000000091 Td
+(Based on the policy information, here is what Flex includes compared to Saver:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 370.7400000000000091 Td
+(Base Fare & Flexibility: Flex fares typically have a higher base fare but offer more flexible changes and are often refundable) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 359.2400000000000091 Td
+(where stated [1].) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 347.7400000000000091 Td
+(Changes: If you need to change your travel dates or times, Flex fares allow this with a fare difference. Saver fares may incur a) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 336.2400000000000091 Td
+(change fee plus the fare difference \(if inventory is available\) [2].) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 324.7400000000000091 Td
+(*   Refundability: Flex-type fares are generally refundable to the original mode of payment [5]. In contrast, Saver-type fares are) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 313.2400000000000091 Td
+(typically non-refundable, though statutory taxes and eligible airport charges may be refunded if required by regulation [6].) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+48. 301.7400000000000091 Td
+(For your current booking, you have selected the Flex fare type.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+48. 291.0900000000000318 Td
+(Sources: [1] booking-faq-and-glossary.md; [2] refunds-and-changes.md; [5] refunds-and-changes.md; [6]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+48. 280.5900000000000318 Td
+(refunds-and-changes.md) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 261.2400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 249.2400000000000091 Td
+(Suggest lower-cost add-on choices for this booking.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 229.7400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 217.7400000000000091 Td
+(To suggest lower-cost options, you can review your current add-ons for potential reductions:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 206.2400000000000091 Td
+(Meal: You are currently booked with a Premium combo meal \(INR 1,300\). Since your fare is Flex, the standard meal is) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 194.7400000000000091 Td
+(included at no extra charge, which would save you money.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 183.2400000000000091 Td
+(Seating: If you do not require extra legroom, opting for a standard seat will remove the INR 1,600 fee for two passengers.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 171.7400000000000091 Td
+(*   Insurance: You can choose to decline travel insurance \(INR 249\) if you are comfortable with that coverage gap.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 160.2400000000000091 Td
+(By removing these three add-ons \(meal, seating upgrade, and insurance\), you could significantly lower your total cost while) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 148.7400000000000091 Td
+(keeping the necessary checked baggage included in your booking.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 129.2400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 117.2400000000000091 Td
+(Can I add extra baggage at the airport counter?) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 97.7400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 85.7400000000000091 Td
+(Yes, you can add extra checked baggage at the airport check-in counter, but please note that this is subject to space,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 74.2400000000000091 Td
+(safety, and cutoff-time limits. Also, the rates charged at the airport are generally higher than if you pre-book it online) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 62.7400000000000091 Td
+([1].) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 8519
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 786.2400000000000091 Td
+(For the best pricing and smoothest experience, we recommend adding any extra baggage before web check-in closes [2].) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+48. 775.5900000000000318 Td
+(Sources: [1] baggage.md; [2] baggage.md) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 756.2400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 744.2400000000000091 Td
+(What will happen if my flight gets delayed?) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 724.7400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 712.7400000000000091 Td
+(Operational exceptions can occur due to factors like weather disruptions or aircraft changes. If a delay happens,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 701.2400000000000091 Td
+(please be aware that cutoff times, counter acceptance, and ancillary availability may vary accordingly [6].) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 689.7400000000000091 Td
+(For the most accurate information regarding your specific flight disruption policies, we recommend checking the official airline) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 678.2400000000000091 Td
+(updates or contacting customer care directly using the chat ID: cc-7f1f1d96-5886-4d53-886e-d1a2db1cb396.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+48. 667.5899999999999181 Td
+(Sources: [6] checkin-and-timing.md) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 648.2400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 636.2400000000000091 Td
+(What are the refund and change rules for my current fare type?) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 616.7400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 604.7400000000000091 Td
+(Since your current fare type is Flex, here are the general refund and change rules:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 593.2400000000000091 Td
+(Refunds: Flex-type fares are generally refundable to the original mode of payment [2]. For bookings canceled within 24 hours) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 581.7400000000000091 Td
+(of purchase \(or for departures beyond 7 days\), more favorable refund rules may apply [2].) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 570.2400000000000091 Td
+(Changes/Rescheduling: Date and time changes are allowed on Flex fares, subject to a fare difference [3].) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 558.7400000000000091 Td
+(For comparison, please note that Saver fares have stricter change and refund rules [1].) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 547.2400000000000091 Td
+(\(Sources: [1], [2], [3]\)) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+48. 536.5899999999999181 Td
+(Sources: [1] booking-faq-and-glossary.md; [2] refunds-and-changes.md; [3] refunds-and-changes.md) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 517.2400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 505.2400000000000091 Td
+(MakeMyTrip is showing cheaper pricing for the same flight?) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 485.7400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 473.7400000000000091 Td
+(I understand you're looking for the best deal. When comparing prices from different sites, it's important to make sure) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 462.2400000000000091 Td
+(you are comparing apples to apples, meaning every single component of the trip must be included in both quotes.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 450.7400000000000091 Td
+(Our current booking path on the airline site includes a comprehensive package that totals INR 27,834. This price covers:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 439.2400000000000091 Td
+(Flight: AI 560 \(Flex fare\) for two passengers from CCU to BKK.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 427.7400000000000091 Td
+(Meals & Seats: Premium combo meals and extra legroom seats for both travelers.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 416.2400000000000091 Td
+(Baggage: One checked bag up to 23 kg per person.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 404.7400000000000091 Td
+(Protection: Travel insurance.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 393.2400000000000091 Td
+(*   Taxes & Fees: All applicable taxes are included in the final total.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 381.7400000000000091 Td
+(When reviewing the quote from MakeMyTrip, please verify these specific details to ensure an accurate comparison:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 370.2400000000000091 Td
+(1.  Fare Family: Does their price include the Flex fare type? \(Saver fares have stricter change/refund rules [1]\).) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 358.7400000000000091 Td
+(2.  Baggage Allowance: Is the checked baggage allowance \(23 kg\) included in their base price, or is it a separate fee?) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 347.2400000000000091 Td
+(3.  Add-ons: Are premium meals and extra legroom seats factored into their total cost?) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 335.7400000000000091 Td
+(4.  Taxes & Fees: Does their quote show the final grand total, including all taxes and airport fees?) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 324.2400000000000091 Td
+(Booking directly with us ensures that your reservation remains under the airline's manage-booking system, giving you) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 312.7400000000000091 Td
+(immediate access to our policy-grounded answers regarding changes or disruptions.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 301.2400000000000091 Td
+(If you are still concerned about the price, we can help you review the specific rules for any add-ons or fare types. If you need) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 289.7400000000000091 Td
+(a human agent to review their quote against our current policies, please save this chat and provide the Chat ID) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 278.2400000000000091 Td
+(\(cc-7f1f1d96-5886-4d53-886e-d1a2db1cb396\) when contacting care.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+48. 267.5900000000000318 Td
+(Sources: [1] booking-faq-and-glossary.md) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 248.2400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 236.2400000000000091 Td
+(I want to speak to a customer executive) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 216.7400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 204.7400000000000091 Td
+(You have a few options depending on what you need help with:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 193.2400000000000091 Td
+(1. By Phone:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 181.7400000000000091 Td
+(For general queries, booking changes, refunds status, or baggage tracing, you can call the 24×7 Care line at 1800-200-1234) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 170.2400000000000091 Td
+([3].) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 158.7400000000000091 Td
+(2. Through Chat/Copilot \(If needed for documentation\):) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 147.2400000000000091 Td
+(If your query started in this chat flow and you need to escalate it or provide context, remember that every conversation has a) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 135.7400000000000091 Td
+(unique Chat ID \(cc-7f1f1d96-5886-4d53-886e-d1a2db1cb396\). You can save the chat transcript and quote this Chat ID to) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 124.2400000000000091 Td
+(support [1].) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 112.7400000000000091 Td
+(If self-service or the policy details don't answer your question, you should contact care with your booking reference,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 101.2400000000000091 Td
+(passenger name, and this Chat ID [4].) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+48. 90.5900000000000318 Td
+(Sources: [1] contact-and-service.md; [3] contact-and-service.md; [4] contact-and-service.md) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 71.2400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 59.2400000000000091 Td
+(I will book later. How can I resume where I left) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 636
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 786.2400000000000091 Td
+(Assistant:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 774.2400000000000091 Td
+(You can save your progress by keeping this chat open. If you run into any issues or have questions when you return,) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 762.7400000000000091 Td
+(please feel free to quote this chat ID: cc-7f1f1d96-5886-4d53-886e-d1a2db1cb396.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+48. 743.2400000000000091 Td
+(You:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+48. 731.2400000000000091 Td
+(How can I cancel my ticket??) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20260427011935+05'30')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000017314 00000 n 
+0000019147 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000007782 00000 n 
+0000007919 00000 n 
+0000016490 00000 n 
+0000016627 00000 n 
+0000017383 00000 n 
+0000017508 00000 n 
+0000017639 00000 n 
+0000017773 00000 n 
+0000017911 00000 n 
+0000018035 00000 n 
+0000018164 00000 n 
+0000018296 00000 n 
+0000018432 00000 n 
+0000018560 00000 n 
+0000018687 00000 n 
+0000018816 00000 n 
+0000018949 00000 n 
+0000019051 00000 n 
+0000019399 00000 n 
+0000019485 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <7200B9EB379C6825614A645CE2B6CBEE> <7200B9EB379C6825614A645CE2B6CBEE> ]
+>>
+startxref
+19589
+%%EOF
